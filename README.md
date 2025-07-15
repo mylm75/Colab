@@ -15,3 +15,11 @@
 
 ##  更多问题请联系：
 * [Telegram](https://t.me/Enkelte_bot)
+
+## 赞助支持
+
+[![Yxvm 赞助横幅](https://support.nodeget.com/page/promotion?id=223)](https://yxvm.com/)
+
+本项目由 [Yxvm](https://yxvm.com/) 提供服务器资源赞助，特别感谢他们对开源项目的支持！
+
+[![NodeSupport 开源项目](https://img.shields.io/badge/NodeSupport-Open--Source-%2300a67c?style=flat)](https://github.com/NodeSeekDev/NodeSupport)
